@@ -22,7 +22,7 @@ Amount      : ****
 ==================================================
 Date        : 2 August 2026
 Category    : Extra
-Description : Rikshaw Vara
+Description : Rikshaw rent
 Amount      : ****
 ==================================================
 
