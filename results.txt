@@ -5,7 +5,7 @@
 Date        : 2 August 2026
 Category    : Books
 Description : Story Books
-Amount      : 770.00
+Amount      : ****
 ==================================================
 
 ==================================================
@@ -14,7 +14,7 @@ Amount      : 770.00
 Date        : 2 August 2026
 Category    : Food
 Description : Pizza
-Amount      : 450.00
+Amount      : ****
 ==================================================
 
 ==================================================
@@ -23,7 +23,7 @@ Amount      : 450.00
 Date        : 2 August 2026
 Category    : Extra
 Description : Rikshaw Vara
-Amount      : 70.00
+Amount      : ****
 ==================================================
 
 
@@ -31,5 +31,5 @@ Amount      : 70.00
                  EXPENSE SUMMARY
 ##################################################
 Number of Expenses : 3
-Total Expenses     : 1290.00
+Total Expenses     : ****
 ##################################################
